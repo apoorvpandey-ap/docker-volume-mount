@@ -1,4 +1,5 @@
 # docker-volume-mount
+![image](https://user-images.githubusercontent.com/66588814/169235566-6b2ef566-3c3e-41df-bdc8-ffbf349c8b87.png)
 
 ### Step:1 Pull image from docker hub
 `docker pull jenkins:2.46.3-alpine`
